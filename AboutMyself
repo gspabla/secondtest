@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title> About Myself</title>
+    </head>
+    <body>
+        <h2>To know About Myself</h2>
+        <Button>😀 CLick Me!</Button>
+        <h4>Name:</h4>
+        <p>Gurpreet Saini</p>
+        <ht />
+        <h4>D.O.B. :</h4>
+        <p>01/01/2001 🤣 I know its not right, will tell you personally</p>
+        <hr />
+        <h4>Current Interests:</h4>
+        <p>Learning to Code and liking it very much</p>
+        <h4>Food I like</h4>
+        <p>Butter Chicken with Naan 
+            <br />
+            Pasta
+            <br />
+            Tacos
+        </p>
+        <hr />
+    </body>
+
+</html>
