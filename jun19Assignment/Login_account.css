@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+.grey_text {
+    text-align: center;
+    color: rgb(205, 205, 205);
+    padding: 20px;
+}
+
+input {
+    border-color: transparent;
+    background-color: rgb(245, 245, 245);
+    border-left-color: blue;
+    border-left-width: 5px;
+}
+
+.blue_text {
+    color: rgb(75, 75, 237);
+}
+
+.subscribe {
+    border: none;
+    color: white;
+    padding: 10px ;
+    background-color: rgb(53, 53, 242);
+    border-radius: 17px;
+    width: 350px;
+}
+
+.member {
+    text-align: right;
+    color: rgb(38, 38, 210);
+}
+
+.maintable {
+    padding: 100px;
+}

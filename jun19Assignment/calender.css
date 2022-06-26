@@ -1,0 +1,32 @@
+body{
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+table{
+    background-color: black;
+    margin:auto;
+}
+
+thead{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+rowspan{
+    text-align: left;
+}
+
+#math_sign{
+    background-color: orange;
+    text-align: center;
+}
+td{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: grey;
+
+}

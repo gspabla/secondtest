@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+h3 {
+    text-align: center;
+}
+
+div {
+    text-align: start; 
+}
+
+body {
+    background-color: rgb(500, 50, 100);
+}
+
+.good-font {
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: justify;
+    font-size: 1rem;
+}
+
+.parent {
+    font-size: 200px;
+}
+
+.padding-btn {
+    padding: 50px;
+}
+
+.margin-btn {
+    margin: 50px;
+}
