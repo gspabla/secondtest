@@ -1,0 +1,19 @@
+body{
+    color: royalblue;
+    background-color: antiquewhite;
+}
+
+form{
+    background-color: inherit;
+}
+
+input {
+    background-color: aquamarine;
+}
+h3{
+    color: black;
+}
+div{
+    text-align:center ; color:brown
+    background-image: url("https://picsum.photos/id/1/200/300") ;
+}
